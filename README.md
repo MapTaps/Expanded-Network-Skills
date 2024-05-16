@@ -1,7 +1,5 @@
 # <h1>Step by Step Packet Tracer</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 The goal of the following project is to not only showcase my own knowledge on creating networks, but to give other the ability to follow along and potentially gain a deeper understanding of Cisco devices and the basics to networking.
 <br />
@@ -14,7 +12,7 @@ The goal of the following project is to not only showcase my own knowledge on cr
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (21H2)
+- <b>Windows 11</b> (22H2)
 
 <h2>Program walk-through:</h2>
 
